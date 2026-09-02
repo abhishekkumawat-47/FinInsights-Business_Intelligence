@@ -199,19 +199,11 @@ source data*.
 segment responsible, projects where it is heading, recommends an action with a named owner, and
 writes the finding in plain English — with every figure traceable to a stored piece of evidence.
 
-The governing document is [CLAUDE.md](CLAUDE.md). Read it before writing code. This README covers
-only how to run the thing.
+This README is the whole public guide: what the system is, and how to run it.
 
 ## Documentation
 
-Markdown lives in `docs/` and nowhere else.
-
-| Document | What it answers |
-|---|---|
-| [docs/SOLUTION.md](docs/SOLUTION.md) | What we are building and why, in plain English |
-| [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) | How the pieces fit and how data flows between them |
-| [docs/DATA_MODEL.md](docs/DATA_MODEL.md) | Bronze, Silver and Gold — what lives in each layer |
-| [docs/INTELLIGENCE.md](docs/INTELLIGENCE.md) | The agent, its six tools, and the verifier |
+[Nexus_README.pdf](Nexus_README.pdf) is this guide as a printable document.
 
 ## Running it
 
